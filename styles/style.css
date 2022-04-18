@@ -126,7 +126,7 @@
   font-size: 60px;
   font-style: bolder;
   display: flex;
-  margin: auto ;
+  margin: auto;
   margin-bottom: 20px;
   justify-content: center;
 }
@@ -335,7 +335,7 @@
   }
 
 .footer__column-heading{
-  margin-bottom: 0px ;
+  margin-bottom: 0px;
   line-height: 30px;
   font-size: 18px;
   font-weight: bolder;
