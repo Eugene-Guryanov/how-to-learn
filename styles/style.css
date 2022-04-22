@@ -138,7 +138,6 @@
 }
 
 .section-title {
-  margin: 0%;
   text-align: center;
   width: 60%;
   line-height: 1.15;
@@ -151,7 +150,6 @@
 }
 
 .section-subtitle {
-  margin:0;
   text-align: center;
   width: 60%;
   display: flex;
